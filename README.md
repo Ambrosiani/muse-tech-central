@@ -34,6 +34,9 @@ Museums are added into [Wikidata](https://www.wikidata.org/) as well (please hel
 - [Museum für Naturkunde Berlin](https://github.com/MfN-Berlin)
 - [Museum für Kunst und Gewerbe Hamburg](https://github.com/MKGHamburg)
 
+## Hong Kong
+- [M+](https://github.com/mplusmuseum)
+
 ## Hungary
 - [Hungarian Jewish Museum and Archives](https://github.com/MILEVMUS)
 
@@ -71,6 +74,7 @@ Museums are added into [Wikidata](https://www.wikidata.org/) as well (please hel
 - [Autry Museum of the American West](https://github.com/autrymuseum)
 - [Balboa Park Online Collaborative](https://github.com/balboaparkcollab)
 - [Baltimore Libraries, Archives, and Museums](https://github.com/blamcollective)
+- [The Barnes Foundation](https://github.com/barnesfoundation)
 - [Berkeley Natural History Museum Consortium](https://github.com/BNHM)
 - [Birmingham Museum of Art](https://github.com/artsbma)
 - [Blanton Museum of Art](https://github.com/blanton-museum)
@@ -137,6 +141,7 @@ Museums are added into [Wikidata](https://www.wikidata.org/) as well (please hel
 - [Smithsonian Institution](https://github.com/smithsonian/)
 - [Smithsonian National Museum of African American History and Culture (NMAAHC)](https://github.com/NMAAHC)
 - [Solomon R. Guggenheim Museum](https://github.com/Guggenheim)
+- [The Studio at Carnegie Museums of Pittsburgh](https://github.com/CMP-Studio)
 - [U.S. National Archives](https://github.com/usnationalarchives)
 - [Vizcaya Museum](https://github.com/VizcayaMuseum)
 - [Walker Art Center](https://github.com/walkerart)
