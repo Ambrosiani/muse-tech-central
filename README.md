@@ -103,6 +103,7 @@ Museums are added into [Wikidata](https://www.wikidata.org/) as well (please hel
 - [Hammer Museum](https://github.com/HammerMuseum)
 - [Harvard Art Museums](https://github.com/harvardartmuseums)
 - [High Museum of Art](https://github.com/HighMuseum)
+- [Hill Museum & Manuscript Library](https://github.com/vHMML)
 - [Historic New England](https://github.com/HistoricNE)
 - [Institute of Contemporary Art, Miami](https://github.com/icamiami)
 - [J. Paul Getty Trust](https://github.com/thegetty/)
